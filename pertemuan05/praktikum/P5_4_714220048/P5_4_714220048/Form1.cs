@@ -36,7 +36,7 @@ namespace P5_4_714220048
             }
 
 
-            if(cb_gender.Text != "Pria" && cb_gender.Text != "Perempuan")
+            if(cb_gender.Text != "Laki-Laki" && cb_gender.Text != "Perempuan")
             {
                 MessageBox.Show("Jenis kelamin tidak valid!",
                     "Warning",
@@ -111,11 +111,11 @@ namespace P5_4_714220048
                 return;
             }
             MessageBox.Show("Nama: " + tb_nama.Text +
-                   "Jenis Kelamin: " + cb_gender.Text +
-                   "Tanggal Lahir: " + dt_kelahiran.Text +
-                   "Pilihan Kelas: " + kelas +
-                   "Pilihan Jadwal: " + jadwal,
-                   "Informasi Pendaftaran",
+                   "\nJenis Kelamin: " + cb_gender.Text +
+                   "\nTanggal Lahir: " + dt_kelahiran.Text +
+                   "\nPilihan Kelas: " + kelas +
+                   "\nPilihan Jadwal: " + jadwal,
+                   "\nInformasi Pendaftaran",
                    MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 

@@ -95,10 +95,14 @@
             // cb_gender
             // 
             this.cb_gender.FormattingEnabled = true;
+            this.cb_gender.Items.AddRange(new object[] {
+            "Laki-Laki",
+            "Perempuan"});
             this.cb_gender.Location = new System.Drawing.Point(332, 115);
             this.cb_gender.Name = "cb_gender";
             this.cb_gender.Size = new System.Drawing.Size(121, 21);
             this.cb_gender.TabIndex = 4;
+            this.cb_gender.Text = "--Pilih Jenis Kelamin--";
             // 
             // dt_kelahiran
             // 
