@@ -1,0 +1,10 @@
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\bin\Debug\P6_4_714220048.exe.config
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\bin\Debug\P6_4_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\bin\Debug\P6_4_714220048.pdb
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.csproj.AssemblyReference.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.Form1.resources
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.Properties.Resources.resources
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.csproj.GenerateResource.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.csproj.CoreCompileInputs.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan06\praktikum\P6_4_714220048\P6_4_714220048\obj\Debug\P6_4_714220048.pdb
