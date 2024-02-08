@@ -1,0 +1,17 @@
+Bagian 1
+14.ada eror karena string myType nya menggunakan protected karena jika menggunakan protected member yang 
+bersangkutan hanya dapat diakses dari class itu sendiri atau dari class lain dari 
+dalam assembly yang sama yang merupakan turunan dari class yang bersangkutan.
+
+19.Hasilnya tidak memiliki nilai atau tidak ada nilai yang tersedia karena properti MyType tidak disetel 
+dalam konstruktor
+
+24.Menghasilkan output "DVD" karena properti MyType telah diinisialisasi/diatur dengan nilai string "DVD".
+
+Bagian 2
+
+8.Judul buku tidak ditampilkan karena parameter MyTitle memiliki tipe data int, padahal seharusnya parameter
+ MyTitle harus memiliki tipe data string.
+
+12.judul buku ditampilkan dalam output karena konstruktor Book_714220013 telah mengubahnya dengan menggunakan
+ konstruktor dasar yang menginisialisasi properti tipe dan judul dari kelas Product_714220013.

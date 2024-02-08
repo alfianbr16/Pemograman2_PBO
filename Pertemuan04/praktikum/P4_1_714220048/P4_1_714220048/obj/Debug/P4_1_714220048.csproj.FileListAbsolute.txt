@@ -1,0 +1,7 @@
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\bin\Debug\P4_1_714220048.exe.config
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\bin\Debug\P4_1_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\bin\Debug\P4_1_714220048.pdb
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\obj\Debug\P4_1_714220048.csproj.AssemblyReference.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\obj\Debug\P4_1_714220048.csproj.CoreCompileInputs.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\obj\Debug\P4_1_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\pertemuan04\praktikum\P4_1_714220048\P4_1_714220048\obj\Debug\P4_1_714220048.pdb

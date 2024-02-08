@@ -1,0 +1,14 @@
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.exe.config
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.exe
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.pdb
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.csproj.AssemblyReference.cache
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.csproj.CoreCompileInputs.cache
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.exe
+D:\Semester 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.pdb
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.exe.config
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\bin\Debug\P2_1_714220048.pdb
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.csproj.AssemblyReference.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.csproj.CoreCompileInputs.cache
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.exe
+C:\data d\SEMESTER 3\(PBO)Pemograban Berbasis Object\Pemograman2_PBO\Pertemuan02\Praktikum\P2_1_714220048\P2_1_714220048\obj\Debug\P2_1_714220048.pdb
